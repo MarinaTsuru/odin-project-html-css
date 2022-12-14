@@ -103,3 +103,24 @@ h1 {
     text-decoration: none; 
     color: #1F2937;
  }
+
+ .quote {
+    background-color: #E5E7EB;
+    padding: 50px 300px;
+ }
+
+ .quote-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 200;
+    color: #1F2937;
+    text-align: center;
+    text-align: justify;
+ }
+
+ .quote-author {
+    font-weight: bold;
+    text-align: end;
+    font-size: 26px;
+    color: #1F2937;
+ }
