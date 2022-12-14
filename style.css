@@ -107,7 +107,7 @@ h1 {
 
  .quote {
     background-color: #E5E7EB;
-    padding: 50px 300px;
+    padding: 50px 300px 40px;
  }
 
  .quote-text {
@@ -132,7 +132,7 @@ h1 {
     justify-content:space-around;
     align-items: center;
     border-radius: 10px;
-    padding: 20px 30px;
+    padding: 25px 30px;
  }
 
  .button-two {
@@ -158,4 +158,9 @@ h1 {
  .link-button-one, .link-button-two {
     text-decoration: none;
     color: #E5E7EB;
+ }
+
+ .footer {
+    text-align: center;
+    padding: 30px;
  }
