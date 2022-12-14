@@ -9,13 +9,13 @@ body {
     background-color: #1F2937;
     font-size: 18px;
     color: #E5E7EB;
-    padding: 10px 150px 50px;
+    padding: 10px 150px 70px;
 }
 
 .bar {
     display: flex;
     justify-content: space-between;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 }
 
 .link-header-one, .link-header-two, .link-header-three {
@@ -32,6 +32,7 @@ body {
 .header-logo {
     font-size: 24px;
     color: #F9FAF8;
+    margin: 18px;
 }
 
 .card {
@@ -70,7 +71,7 @@ img {
 }
 
 h1 {
-    margin-top: 40px;
+    margin-top: 50px;
 }
 
 .info {
@@ -83,7 +84,7 @@ h1 {
     display: flex;
     justify-content: center;
     gap: 30px;
-    margin: 30px;
+    margin: 40px 70px 70px;
 }
 
 .jlpt5, .jlpt4, .jlpt3, .jlpt2, .jlpt1 {
@@ -110,7 +111,7 @@ h1 {
  }
 
  .quote-text {
-    font-size: 36px;
+    font-size: 30px;
     font-style: italic;
     font-weight: 200;
     color: #1F2937;
@@ -121,6 +122,40 @@ h1 {
  .quote-author {
     font-weight: bold;
     text-align: end;
-    font-size: 26px;
+    font-size: 22px;
     color: #1F2937;
+ }
+ .signup {
+    background-color: #cc0000;
+    margin: 90px 200px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    border-radius: 10px;
+    padding: 20px 30px;
+ }
+
+ .button-two {
+    color: #F9FAF8;
+    background-color: #cc0000;
+    border-radius: 5px;
+    border: 2px solid #F9FAF8;
+    padding: 10px 30px;
+    font-size: 16px;
+    font-weight: bold;
+ }
+
+ h2 {
+    margin-bottom: 5px;
+    color: #E5E7EB;
+ }
+
+ p {
+    margin-top: 5px;
+    color: #E5E7EB;
+ }
+
+ .link-button-one, .link-button-two {
+    text-decoration: none;
+    color: #E5E7EB;
  }
